@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rômulo Valentim</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, TailwindCSS, NextJS and Firebase.**
+- 🌱 I’m currently learning **ReactJS, NodeJS, ReactNative, TailwindCSS, NextJS and Firebase.**
 
 - 💬 Ask me about **ReactJS and Firebase**
 
